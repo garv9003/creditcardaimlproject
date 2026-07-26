@@ -4,8 +4,8 @@ A logistic regression model that estimates the probability a credit card
 holder defaults on their loan, with a decision threshold chosen by the
 actual cost of getting it wrong — not just accuracy.
 
-**[Live dashboard →](#deployment)** &nbsp;|&nbsp; `train.py` reproduces the
-model end-to-end &nbsp;|&nbsp; `app.py` is the deployed inference UI
+`train.py` reproduces the model end-to-end &nbsp;|&nbsp; `app.py` is the
+inference UI
 
 ---
 
